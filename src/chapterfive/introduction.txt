@@ -1,0 +1,7 @@
+1.封装 encapsulation
+  private 同一个类
+  default  同一个类 同一个包
+  protected  同一个类 同一个包    子类
+  public   同一个类 同一个包  子类  所有包
+   
+2.
